@@ -1,0 +1,19 @@
+num1 = int(input("Enter first number:"))      #Entered will be converted to int 
+num2 = int(input("Enter second number:"))     #Entered will be converted to int
+#For addition
+sum = num1 + num2
+print("Sum of {0} and {1} is {2}" .format(num1, num2, sum))
+
+#For multipication
+mul = num1*num2
+print("Multipication of {0} and {1} is {2}" .format(num1, num2, mul))
+
+#For division
+div = num1%num2
+print("Division of {0} and {1} is {2}" .format(num1, num2, div))
+
+#For square of both number entered by user
+sq1 = num1**num1
+print("Sqaure of first number {0} is {1}" .format(num1, sq1))
+sq2 = num2**num2
+print("Sqaure of second number {0} is {1}" .format(num2, sq2))

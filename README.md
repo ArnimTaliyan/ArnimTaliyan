@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnimTaliyan
-- 👀 I’m interested in ...
+- 👀 I’m interested in python coding
 - 🌱 I’m currently learning c , c++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arnimchaudhary@gmail.com

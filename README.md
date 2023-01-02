@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnimTaliyan
-- 👀 I’m interested in python coding
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning c , c++ , python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arnimchaudhary@gmail.com

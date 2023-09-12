@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnimtaliyan" alt="arnimtaliyan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chaudhary_arnim" target="blank"><img src="https://img.shields.io/twitter/follow/arnim_taliyan?logo=twitter&style=for-the-badge" alt="arnim_taliyan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chaudhary_arnim" target="blank"><img src="https://img.shields.io/twitter/follow/arnim_taliyan?logo=twitter&style=for-the-badge" alt="chaudhary_arnim" /></a> </p>
 
 - 🔭 I’m currently working on **File Management System using API**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arnim" height="30" width="40" /></a>
-<a href="https://twitter.com/arnim_taliyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaudhary_arnim" height="30" width="40" /></a>
+<a href="https://twitter.com/chaudhary_arnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaudhary_arnim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

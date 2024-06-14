@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaudhary_arnim" target="blank"><img src="https://img.shields.io/twitter/follow/arnim_taliyan?logo=twitter&style=for-the-badge" alt="chaudhary_arnim" /></a> </p>
 
-- 🔭 I’m currently working on **File Management System using API**
+- 🔭 I’m currently working on **Ed-Tech Application**
 
 - 🌱 I’m currently learning **Devops**
 

@@ -1,5 +1,5 @@
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"><img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIwNDIyMjIsIm5iZiI6MTcwMjA0MTkyMiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA4VDEzMjUyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2MDBlZTQyOWVhNjYxNzBmNWVlZmYwYzEwMTc0OWU2ZGJkZjg3YTU2MmFlZDQ1NTkyMjBjYjMxOTdjYjlhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DTkooyUre8D92uY62jqY0d8tkEssYrdnwe1eymHUqts"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href=""></a>
 <h3 align="center">A passionate Devops student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnimtaliyan&label=Profile%20views&color=0e75b6&style=flat" alt="arnimtaliyan" /> </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaudhary_arnim" target="blank"><img src="https://img.shields.io/twitter/follow/arnim_taliyan?logo=twitter&style=for-the-badge" alt="chaudhary_arnim" /></a> </p>
 
-- 🔭 I’m currently working on **Ed-Tech Application**
+- 🔭 I’m currently working on **Algorithm Visualizer**
 
 - 🌱 I’m currently learning **Devops**
 

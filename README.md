@@ -68,14 +68,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnimtaliyan&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repo,Issues,PullRequest" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -105,7 +97,3 @@
 
 > 💡 “First solve the problem, then write the code.” – John Johnson  
 > 🚀 Keep hustling, keep coding!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCV0m2GkS8LMzZy/giphy.gif" width="300" />
-</p>

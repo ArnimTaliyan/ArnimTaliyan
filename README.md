@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1DB6AC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev+%F0%9F%92%BB;DevOps+Learner+%F0%9F%94%A5;Java+Backend+Lover+%F0%9F%92%9A;Always+learning+something+new+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+</p>
+
 ---
 
 ### 🌐 Connect with me
@@ -30,20 +34,15 @@
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-  <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -54,17 +53,18 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnimtaliyan&theme=radical&border=FFFFFF" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnimtaliyan&show_icons=true&theme=radical&border_color=FFFFFF" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnimtaliyan&layout=compact&theme=radical&border_color=FFFFFF" />
-</p>
+---
+
+### 🧠 Currently Learning
+
+- ⚙️ DevOps: Docker, Jenkins, Kubernetes
+- 🔧 CI/CD & Infra as Code
+- 💻 Java with Spring Boot
+- 🌐 Full Stack Development (HTML, CSS, JS, Node.js)
 
 ---
 
@@ -76,33 +76,36 @@
 
 ---
 
-### 🧠 Currently Learning
-
-- 🔧 DevOps Tools: Docker, Jenkins, Kubernetes
-- 📦 CI/CD Pipelines and Infrastructure as Code
-- 💻 Java Backend Development (Spring Boot soon!)
-- 🌐 Full Stack Web Development
-
----
-
-### ⚡ Fun Facts About Me
-
-- 😄 I believe in “**Learning by Building**”
-- 🧑‍💻 I spend most of my time coding or exploring new tech
-- 💬 Ask me about **Java, DevOps, GitHub, or Web Development**
-
----
-
-### 🎬 Vibe Check (GIFs!)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCV0m2GkS8LMzZy/giphy.gif" width="280" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
-  <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnimtaliyan&show_icons=true&theme=radical&border_color=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnimtaliyan&theme=radical&border=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnimtaliyan&layout=compact&theme=radical&border_color=FFFFFF" />
 </p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="350" />
+</p>
 
-<p align="center"><b>🔥 Let's connect and create something amazing!</b></p>
+---
+
+### 🤩 Fun Facts
+
+- 😄 I believe in **“Learning by Doing”**
+- 🎯 I aim to become a top DevOps engineer 💥
+- 💬 Ask me about **Java, GitHub, CI/CD, or memes 😂**
+
+---
+
+> 💡 “First solve the problem, then write the code.” – John Johnson  
+> 🚀 Keep hustling, keep coding!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCV0m2GkS8LMzZy/giphy.gif" width="300" />
+</p>

@@ -76,7 +76,7 @@
 
 <!-- Optional Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnimtaliyan&theme=radical&border=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnimtaliyan&theme=radical&border=FFFFFF&cache_seconds=60" />
 </p>
 
 <p align="center">

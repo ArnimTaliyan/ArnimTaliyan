@@ -71,12 +71,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnimtaliyan&show_icons=true&theme=radical&border_color=FFFFFF" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnimtaliyan&theme=radical&border=FFFFFF" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=arnimtaliyan&show_icons=true&theme=radical&border_color=FFFFFF&cache_seconds=60" />
+</p>
+
+<!-- Optional Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnimtaliyan&theme=radical&border=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnimtaliyan&layout=compact&theme=radical&border_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnimtaliyan&layout=compact&theme=radical&border_color=FFFFFF&cache_seconds=60" />
 </p>
 
 ---

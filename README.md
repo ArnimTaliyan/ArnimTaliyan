@@ -2,10 +2,6 @@
 <h3 align="center">🚀 A passionate DevOps Engineer & Java Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnimtaliyan&label=Profile%20views&color=0e75b6&style=flat" alt="arnimtaliyan" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1DB6AC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev+%F0%9F%92%BB;DevOps+Learner+%F0%9F%94%A5;Java+Backend+Lover+%F0%9F%92%9A;Always+learning+something+new+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
